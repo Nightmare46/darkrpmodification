@@ -27,7 +27,7 @@ TEAM_BANKER = AddExtraTeam("Banker",Color(1,33,100,255),"models/player/hostage/k
 TEAM_BLACK = AddExtraTeam("Arms Warlord", Color(160, 0, 145, 255), "models/player/eli.mdl", [[You sell the really expensive, hard to get materials that
 terrorists and warlords alike both want!]], {}, "BlackMarket", 2, 40, 0, false)
 TEAM_LAWYER = AddExtraTeam("Lawyer",Color(1,33,100,255),"models/player/hostage/magnusson.mdl",[[ You are a lawyer. Take people to court and bail
-people out of jail.' ]],{},"Lawyaer",2,55,0,false)
+people out of jail.' ]],{},"Lawyer",2,55,0,false)
 
 
 
