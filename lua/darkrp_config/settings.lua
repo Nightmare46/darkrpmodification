@@ -14,7 +14,7 @@ GM.Config.allowrpnames 					= true
 -- allowsprays - Enable/disable the use of sprays on the server.
 GM.Config.allowsprays 					= true
 -- allowvehicleowning - Enable/disable whether people can own vehicles.
-GM.Config.allowvehicleowning 			= false
+GM.Config.allowvehicleowning 			= true
 -- allowvnocollide - Enable/disable the ability to no-collide a vehicle (for security).
 GM.Config.allowvnocollide 				= true
 -- alltalk - Enable for global chat, disable for local chat.
