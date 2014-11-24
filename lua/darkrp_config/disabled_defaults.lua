@@ -27,7 +27,7 @@ DarkRP.disabledDefaults["modules"] = {
 	["fpp"]              = false,
 	["f1menu"]           = false,
 	["f4menu"]           = false,
-	["hitmenu"]          = false,
+	["hitmenu"]          = true,
 	["hud"]              = false,
 	["hungermod"]        = true,
 	["playerscale"]      = false,
@@ -77,8 +77,8 @@ DarkRP.disabledDefaults["shipments"] = {
 Entities
 ---------------------------------------------------------------------------*/
 DarkRP.disabledDefaults["entities"] = {
-	["Drug lab"]      = false,
-	["Gun lab"]       = false,
+	["Drug lab"]      = true,
+	["Gun lab"]       = true,
 	["Money printer"] = false,
 	["Microwave"]     = true, --Hungermod only
 }
@@ -131,8 +131,8 @@ DarkRP.disabledDefaults["ammo"] = {
 Agendas
 ---------------------------------------------------------------------------*/
 DarkRP.disabledDefaults["agendas"] = {
-	["Gangster's agenda"] = false,
-	["Police agenda"] = false,
+	["Gangster's agenda"] = true,
+	["Police agenda"] = true,
 }
 
 /*---------------------------------------------------------------------------
@@ -149,7 +149,7 @@ Jobs that are hitmen
 set to true to disable
 ---------------------------------------------------------------------------*/
 DarkRP.disabledDefaults["hitmen"] = {
-	["mobboss"] = false,
+	["mobboss"] = true,
 }
 
 /*---------------------------------------------------------------------------
