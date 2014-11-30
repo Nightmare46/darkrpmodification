@@ -1,9 +1,9 @@
 The DarkRP modification addon
 ==================
 for DarkRP 2.5.0 and above.
-**----------^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-----------**
-###This entirety of a database is for the upcoming DarkRP server maintained by Gabe Eisenmenger, Nick Doylida and Michael McCallum with more to come###
-**----------^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-----------**
+**----------^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-----------**
+###This entirety of a database is for the upcoming DarkRP server maintained by Gabe Eisenmenger, Nick Doylida, Nightmare and Michael McCallum with more to come###
+**----------^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-----------**
 
 ## Download ##
 Are you looking at this addon from the github web page? There's a "Download zip" button on the right.
